@@ -8,7 +8,10 @@ The model was trained with 96x96 sized images in RGB.
 
 An alarm song is played if the person is not wearing a mask and a happy emoji is displayed if the person is wearing one.
 ## Content
-* 
+* _detection_mask_: notebook of the model
+* _video_detection_: code for the video detection
+
+
 ## Neural network
 
 The Convolutional Neural Network was made with Tensorflow and trained with 658 images of each classes.
